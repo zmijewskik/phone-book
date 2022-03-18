@@ -1,0 +1,16 @@
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.exe
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.deps.json
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.runtimeconfig.json
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.runtimeconfig.dev.json
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.dll
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\net5.0\ref\PhoneBook.dll
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\net5.0\PhoneBook.pdb
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.csproj.AssemblyReference.cache
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.AssemblyInfoInputs.cache
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.AssemblyInfo.cs
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.dll
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\ref\PhoneBook.dll
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.pdb
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\net5.0\PhoneBook.genruntimeconfig.cache
